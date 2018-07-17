@@ -41,10 +41,10 @@
     "gulp-jscoverage": "~0.1.0",
     "gulp-jscs": "~1.6.0",
     "jscoverage": "~0.5.9",
+    "lodash": "4.17.10",
     "mocha": "~2.2.5",
     "mocha-lcov-reporter": "~0.0.2",
-    "mversion": "^1.10.1",
-    "underscore": "~1.8.3"
+    "mversion": "^1.10.1"
   },
   "dependencies": {}
 }
