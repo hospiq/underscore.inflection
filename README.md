@@ -1,4 +1,6 @@
-## underscore.inflection
+## lodash.inflection
+
+This is a library intended for **Lodash** and **NOT Underscore**. Because it is a fork GitHub will not let us rename it
 
 > [![NPM version][npm-badge]][npm]
 > [![Build Status][travis-badge]][travis-ci]
